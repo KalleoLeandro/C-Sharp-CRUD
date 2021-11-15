@@ -1,0 +1,15 @@
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.csproj.AssemblyReference.cache
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.AssemblyInfoInputs.cache
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.AssemblyInfo.cs
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.csproj.CoreCompileInputs.cache
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\CRUD.net.exe
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\CRUD.net.deps.json
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\CRUD.net.runtimeconfig.json
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\CRUD.net.dll
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\ref\CRUD.net.dll
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\bin\Debug\net6.0\CRUD.net.pdb
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.dll
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\ref\CRUD.net.dll
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.pdb
+E:\Workspace BootCamp C#\Projeto CRUD .net\CRUD.net\obj\Debug\net6.0\CRUD.net.genruntimeconfig.cache
